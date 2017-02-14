@@ -1,0 +1,23 @@
+
+/* Body
+================================= */
+
+body {
+	margin: 200px 150px 150px 150px;
+	text-align: right;
+}
+
+.quote {
+	font-weight: bold;
+	font-size: 200%;
+	color: inherit;
+}
+
+.source {
+	font-size: 120%;
+}
+
+.citation{
+	font-style: italic;
+	
+}
